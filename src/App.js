@@ -1,9 +1,10 @@
 import React from 'react'
-import './App.css';
+// import './App.css';
+import Submit from '../src/components/Submit';
 
 const App = () => {
   return (
-    <div>App</div>
+    <div> <Submit/></div>
   )
 }
 
